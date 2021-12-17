@@ -1,0 +1,9 @@
+﻿<Application x:Class="MIKOLAJCZAK_Antoine_TP2_ST2TRD.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MIKOLAJCZAK_Antoine_TP2_ST2TRD"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
